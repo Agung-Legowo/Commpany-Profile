@@ -1,0 +1,54 @@
+.html{
+	scroll-behavior: smooth;
+}
+
+.jumbotron {
+	background-image: url('img/jumbotron.jpg');
+	background-size: cover;
+	height: 600px;
+	margin-top: 40px;
+}
+
+.jumbotron .display-4{
+	margin-top: 150px;
+	margin-left: 410px;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+.jumbotron .lead{
+	margin-left: 550px;
+}
+
+.jumbotron .hr{
+	margin-left: 550px;
+	width: 800px;
+}
+
+.jumbotron .bt{
+	margin-left: 550px;
+}
+
+.card{
+	width: 20rem;
+	margin-top: -150px;
+	margin-left: 50px;
+}
+
+.card .display-4{
+	font-size: 30px;
+}
+
+.hr{
+	width: 100px;
+	border-top: 3px solid #eaeaea;
+}
+
+.col-md-3{
+	margin-left: 30px;
+	margin-top: -10px;
+}
+
+.testimonial{
+	background-color: #cce3ff;
+}
